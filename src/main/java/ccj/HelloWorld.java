@@ -6,5 +6,6 @@ public class HelloWorld {
         System.out.println("hahahha");
         System.out.println("master");
         System.out.println("hot-fix");
+        System.out.println("Hello GitHub");
     }
 }
